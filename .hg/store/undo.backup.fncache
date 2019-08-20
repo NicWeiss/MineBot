@@ -1,0 +1,5 @@
+data/MinecraftBot.pro.i
+data/.hgignore.i
+data/client.h.i
+data/client.cpp.i
+data/main.cpp.i
